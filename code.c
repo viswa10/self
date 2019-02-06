@@ -3,12 +3,11 @@
 
 main ()
 {
-	int a,b,c;
+	int a,b,c,d;
 	clrscr();
 	
 	a=10;
-	b=3:wq
-		0;
+	b=30;
 	c=a+b;
 	printf( The addition of two numbers =%d,c);
 	getche();
