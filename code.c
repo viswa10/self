@@ -8,7 +8,8 @@ main ()
 	
 	a=10;
 	b=30;
-	c=a+b;
-	printf( The addition of two numbers =%d,c);
+	c=50;
+	d=a+b+c;
+	printf( The addition of two numbers =%d,d);
 	getche();
 }
